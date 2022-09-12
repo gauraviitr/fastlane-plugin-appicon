@@ -14,6 +14,14 @@ module Fastlane
             :xxhdpi => ['144x144'],
             :xxxhdpi => ['192x192']
           },
+          launcher_adaptive: {
+            :ldpi => ['81x81'],
+            :mdpi => ['108x108'],
+            :hdpi => ['162x162'],
+            :xhdpi => ['216x216'],
+            :xxhdpi => ['324x324'],
+            :xxxhdpi => ['432x432']
+          },
           notification: {
             :ldpi => ['18x18'],
             :mdpi => ['24x24'],
